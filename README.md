@@ -20,8 +20,6 @@ This project encompasses three main areas:
 
 3. **Single-cell Transcriptomics Analysis**: Conducting end-to-end scRNA-seq analysis of 10X Genomics data using Python libraries such as Scanpy and scv-tools, to uncover cell type-specific signatures and potential biomarkers.
 
-### Data Availability
-
 ## Data Availability
 
 This project involves two main types of data:
